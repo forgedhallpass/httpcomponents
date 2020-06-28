@@ -11,6 +11,7 @@
 
     <modules>
         <module>parser</module>
+        <module>burp-plugin-helper</module>
     </modules>
 
     <repositories>
